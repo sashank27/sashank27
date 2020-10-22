@@ -6,7 +6,7 @@
 
 ---
 
-✨ I am a Computer Science Undergrad at IIIT Allahabad, India(class of 2020). I originally hail from Kanpur, Uttar Pradesh, India.  I am an advocate for building open-source projects. Sharing what I know and continue to learn about programming is the thing I love doing!
+✨ I am a Software Engineer at Cisco Systems Inc., and a Computer Science Undergrad at IIIT Allahabad, India(class of 2020). I originally hail from Kanpur, Uttar Pradesh, India.  I am an advocate for building open-source projects. Sharing what I know and continue to learn about programming is the thing I love doing!
 
 Besides coding, I am a self-taught Astrophysicist 🔭  and I love gazing the night sky 🌌 !
 When I am not coding, I (try to!) read a lot of books 📖  and listen to music 🎧
